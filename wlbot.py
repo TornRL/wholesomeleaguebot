@@ -1,3 +1,6 @@
+# Made by Torn_RL
+# Made for: Wholesome League (On Twitch.Tv/MonkeyShinesTV)
+
 import os
 import random
 import itertools
@@ -1462,3 +1465,4 @@ async def tourny(ctx):
 
 # Start the bot
 bot.run(TOKEN)
+
