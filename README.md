@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Goals: The goal of developing this bot is allow everyone to have fun in random private matches by making the experience as fair as possible.<br>🎲 Fun fact:</p>
+<p align="left">🎯 Goals: The goal of developing this bot is allow everyone to have fun in random private matches by making the experience as fair as possible.<br>🎲 Fun fact: I have spent over 1.5 years developing and tuning the bot to allow the best experiences possible.</p>
 
 ###
 
